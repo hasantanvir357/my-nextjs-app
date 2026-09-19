@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const ProductCard = ({ product }) => {
     const { name, price, category, description } = product;
@@ -22,6 +23,12 @@ const ProductCard = ({ product }) => {
                 <div className="card-actions mt-4">
                     <button className="btn btn-primary btn-sm">Buy Now</button>
                 </div>
+
+                <Link href={`/products/${product.id}`} className="btn btn-primary btn-sm">
+                    Show Details
+                </Link>
+
+
             </div>
         </div>
     );
