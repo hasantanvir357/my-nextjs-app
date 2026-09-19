@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/headphones.jpg",
+      "description": "Comfortable wireless headphones with high-quality sound, deep bass, and long-lasting battery life."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 79.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/keyboard.jpg",
+      "description": "A durable mechanical keyboard with RGB lighting and responsive tactile switches for gaming and work."
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "price": 129.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/smartwatch.jpg",
+      "description": "A modern smartwatch with fitness tracking, heart-rate monitoring, notifications, and multiple sports modes."
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "category": "Fashion",
+      "image": "https://example.com/images/shoes.jpg",
+      "description": "Lightweight and comfortable running shoes designed for daily workouts, jogging, and outdoor activities."
+    },
+    {
+      "id": 5,
+      "name": "Leather Backpack",
+      "price": 74.99,
+      "category": "Fashion",
+      "image": "https://example.com/images/backpack.jpg",
+      "description": "A stylish and durable leather backpack with multiple compartments for laptops, books, and personal items."
+    },
+    {
+      "id": 6,
+      "name": "Coffee Maker",
+      "price": 49.99,
+      "category": "Home",
+      "image": "https://example.com/images/coffee-maker.jpg",
+      "description": "A compact coffee maker that lets you prepare fresh and delicious coffee quickly at home or in the office."
+    },
+    {
+      "id": 7,
+      "name": "Desk Lamp",
+      "price": 29.99,
+      "category": "Home",
+      "image": "https://example.com/images/desk-lamp.jpg",
+      "description": "An adjustable LED desk lamp with multiple brightness levels, perfect for studying, reading, and working."
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "price": 45.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/speaker.jpg",
+      "description": "A portable Bluetooth speaker with powerful stereo sound, clear audio, and a rechargeable battery."
+    },
+    {
+      "id": 9,
+      "name": "Water Bottle",
+      "price": 19.99,
+      "category": "Accessories",
+      "image": "https://example.com/images/water-bottle.jpg",
+      "description": "A reusable stainless-steel water bottle that keeps beverages cold or hot for several hours."
+    }
+  ]
+}
